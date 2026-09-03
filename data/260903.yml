@@ -1,0 +1,62 @@
+about:
+  description: Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+  license: Apache-2.0
+  homepage: https://kopia.io
+  head: bfe4ecf
+  archived: false
+  latestVersion: v0.23.1
+  collectedAt: 2026-09-03T05:12:09Z
+timeline:
+  created: 2015-12-19
+  lastCommit: 2026-09-03
+  lastRelease: 2026-06-16
+popularity:
+  star: 14022
+  watcher: 61
+  fork: 718
+  release: 86
+  contributor: 158
+  pullRequest: 591
+  issue: 1845
+language:
+  Go: 4351640
+  JavaScript: 42323
+  Makefile: 33751
+  Shell: 26320
+  HTML: 15562
+  Dockerfile: 964
+  SCSS: 62
+totalLine: 4470622
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 29
+    openPR: 17
+    closedIssue: 1
+    openIssue: 11
+    commit: 28
+  last90d:
+    since: 2026-06-05
+    release: 1
+    mergedPR: 104
+    openPR: 42
+    closedIssue: 6
+    openIssue: 34
+    commit: 108
+  last180d:
+    since: 2026-03-07
+    release: 2
+    mergedPR: 216
+    openPR: 59
+    closedIssue: 10
+    openIssue: 79
+    commit: 216
+  last360d:
+    since: 2025-09-08
+    release: 6
+    mergedPR: 417
+    openPR: 76
+    closedIssue: 42
+    openIssue: 193
+    commit: 413
