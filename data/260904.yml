@@ -7,13 +7,13 @@ about:
   head: 4ceee29
   archived: false
   latestVersion: v0.23.1
-  collectedAt: 2026-09-04T20:12:32Z
+  collectedAt: 2026-09-04T20:29:42Z
 timeline:
   created: 2015-12-19
   lastCommit: 2026-09-03
   lastRelease: 2026-06-16
 popularity:
-  star: 14038
+  star: 14039
   watcher: 59
   fork: 722
   release: 86
@@ -87,7 +87,7 @@ total:
   commit: 4234
 ---
 path: /home/runner/.x-repo/github.com/kopia/kopia
-collectedAt: 2026-09-04T20:12:35Z
+collectedAt: 2026-09-04T20:29:45Z
 loc:
   Go:
     code: 117898
