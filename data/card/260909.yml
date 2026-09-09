@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.23.1"
   latestRelease: "v0.23.1"
   latestPrerelease: "v0.6.0-rc4"
-  collectedAt: 2026-09-09T05:39:20Z
+  collectedAt: 2026-09-09T20:11:39Z
 timeline:
   created: 2015-12-19
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-16
   lastPrerelease: 2020-08-07
 popularity:
-  star: 14073
+  star: 14077
   watcher: 59
   fork: 722
   release: 86
@@ -84,12 +84,12 @@ total:
   release: 86
   mergedPR: 3173
   openPR: 115
-  closedIssue: 1084
-  openIssue: 763
+  closedIssue: 1085
+  openIssue: 762
   commit: 4250
 ---
 path: /home/runner/.x-repo/github.com/kopia/kopia
-collectedAt: 2026-09-09T05:39:26Z
+collectedAt: 2026-09-09T20:11:45Z
 loc:
   Go:
     code: 117911
