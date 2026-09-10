@@ -1,0 +1,353 @@
+- repo: alpine_edge
+  subrepo: testing
+  srcname: kopia
+  binname: kopia
+  visiblename: kopia
+  version: 0.23.1
+  origversion: 0.23.1-r0
+  status: newest
+  summary: Fast and secure backup tool
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: testing
+  srcname: kopia
+  binname: kopia-bash-completion
+  visiblename: kopia-bash-completion
+  version: 0.23.1
+  origversion: 0.23.1-r0
+  status: newest
+  summary: Bash completions for kopia
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: testing
+  srcname: kopia
+  binname: kopia-zsh-completion
+  visiblename: kopia-zsh-completion
+  version: 0.23.1
+  origversion: 0.23.1-r0
+  status: newest
+  summary: Zsh completions for kopia
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alt_p11
+  srcname: kopia
+  binnames:
+    - kopia
+    - kopia-debuginfo
+  visiblename: kopia
+  version: 0.15.0
+  origversion: 0.15.0-alt2
+  status: outdated
+  summary: Backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication (CLI)
+  maintainers:
+    - asheplyakov@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Archiving/Backup
+- repo: altsisyphus
+  srcname: kopia
+  binnames:
+    - kopia
+    - kopia-debuginfo
+  visiblename: kopia
+  version: 0.23.1
+  origversion: 0.23.1-alt1
+  status: newest
+  summary: Backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication (CLI)
+  maintainers:
+    - kotopesutility@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Archiving/Backup
+- repo: aur
+  srcname: kopia
+  binname: kopia
+  visiblename: kopia
+  version: 0.23.1
+  origversion: 0.23.1-1
+  status: newest
+  summary: A cross-platform backup-tool with encryption, deduplication, compression and cloud support.
+  maintainers:
+    - gromit@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: kopia-bin
+  binname: kopia-bin
+  visiblename: kopia-bin
+  version: 0.23.1
+  origversion: 0.23.1-1
+  status: newest
+  summary: A cross-platform backup-tool with encryption, deduplication, compression and cloud support.
+  maintainers:
+    - jtprince@aur
+  licenses:
+    - Apache
+- repo: freebsd
+  srcname: sysutils/kopia
+  binname: kopia
+  visiblename: sysutils/kopia
+  version: 0.23.1
+  origversion: 0.23.1_4
+  status: newest
+  summary: Fast and secure open-source backup/restore tool
+  maintainers:
+    - eduardo@freebsd.org
+  categories:
+    - sysutils
+- repo: gentoo_ovl_guru
+  srcname: app-backup/kopia
+  visiblename: app-backup/kopia
+  version: 0.23.1
+  origversion: null
+  status: newest
+  summary: Kopia - Fast And Secure Open-Source Backup
+  maintainers:
+    - itai@itaiferber.net
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - CC0-1.0
+    - MIT
+  categories:
+    - app-backup
+- repo: homebrew
+  srcname: kopia
+  visiblename: kopia
+  version: 0.23.1
+  origversion: null
+  status: newest
+  summary: Fast and secure open-source backup
+- repo: liguros_stable
+  srcname: app-backup/kopia
+  visiblename: app-backup/kopia
+  version: 0.21.1
+  origversion: null
+  status: outdated
+  summary: Kopia - Fast And Secure Open-Source Backup
+  maintainers:
+    - itai@itaiferber.net
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - CC0-1.0
+    - MIT
+  categories:
+    - app-backup
+- repo: liguros_develop
+  srcname: app-backup/kopia
+  visiblename: app-backup/kopia
+  version: 0.23.0
+  origversion: null
+  status: outdated
+  summary: Kopia - Fast And Secure Open-Source Backup
+  maintainers:
+    - itai@itaiferber.net
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - CC0-1.0
+    - MIT
+  categories:
+    - app-backup
+- repo: nix_stable_24_05
+  srcname: kopia
+  visiblename: kopia
+  version: 0.17.0
+  origversion: null
+  status: outdated
+  summary: Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication
+  maintainers:
+    - bigras.bruno@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: kopia
+  visiblename: kopia
+  version: 0.17.0
+  origversion: null
+  status: outdated
+  summary: Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication
+  maintainers:
+    - bigras.bruno@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: kopia
+  visiblename: kopia
+  version: 0.19.0
+  origversion: null
+  status: outdated
+  summary: Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication
+  maintainers:
+    - bigras.bruno@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: kopia
+  visiblename: kopia
+  version: 0.22.3
+  origversion: null
+  status: outdated
+  summary: Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication
+  maintainers:
+    - bigras.bruno@gmail.com
+    - nix@blenderfreaky.de
+    - nadir-ishiguro@github
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: kopia
+  visiblename: kopia
+  version: 0.23.1
+  origversion: null
+  status: newest
+  summary: Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication
+  maintainers:
+    - bigras.bruno@gmail.com
+    - nix@nkilian.org
+    - nadir-ishiguro@github
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: kopia
+  visiblename: kopia
+  version: 0.23.1
+  origversion: null
+  status: newest
+  summary: Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication
+  maintainers:
+    - bigras.bruno@gmail.com
+    - nix@nkilian.org
+    - nadir-ishiguro@github
+  licenses:
+    - Apache-2.0
+- repo: openbsd
+  srcname: sysutils/kopia
+  binname: kopia
+  visiblename: sysutils/kopia
+  version: 0.23.0
+  origversion: null
+  status: outdated
+  summary: simple tool for managing encrypted backups in the cloud
+  maintainers:
+    - denis@openbsd.org
+  categories:
+    - sysutils
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: kopia
+  binnames:
+    - kopia
+    - kopia-debuginfo
+    - kopia-debugsource
+  visiblename: kopia
+  version: 0.23.1
+  origversion: 0.23.1-1.4
+  status: newest
+  summary: Cross-platform backup tool with fast incremental backups
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: scoop
+  subrepo: main
+  binname: kopia
+  visiblename: kopia
+  version: 0.23.1
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
+- repo: slackbuilds
+  srcname: system/kopia
+  visiblename: system/kopia
+  version: 0.23.1
+  origversion: null
+  status: newest
+  maintainers:
+    - rizitis@gmail.com
+  categories:
+    - system
+- repo: terra_rawhide
+  srcname: kopia
+  binname: kopia
+  visiblename: kopia
+  version: 0.23.1
+  origversion: 0.23.1-2.fcrawhide
+  status: newest
+  summary: A backup/restore tool that allows you to create encrypted snapshots
+  maintainers:
+    - git@olivia.sh
+  licenses:
+    - Apache-2.0 AND CC0-1.0 AND Apache-2.0 AND LGPL-3.0-or-later AND MIT AND (MIT AND (BSD-3-Clause AND LGPL-2.1-or-later AND Apache-2.0 AND IJG AND MIT AND GPL-2.0-or-later AND ISC AND OpenSSL AND (MPL-1.1 OR GPL-2.0-only OR LGPL-2.0-only)))
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: kopia
+  binname: kopia
+  visiblename: kopia
+  version: 0.23.1
+  origversion: 0.23.1-2.fcrawhide
+  status: newest
+  summary: A backup/restore tool that allows you to create encrypted snapshots
+  maintainers:
+    - git@olivia.sh
+  licenses:
+    - Apache-2.0 AND CC0-1.0 AND Apache-2.0 AND LGPL-3.0-or-later AND MIT AND (MIT AND (BSD-3-Clause AND LGPL-2.1-or-later AND Apache-2.0 AND IJG AND MIT AND GPL-2.0-or-later AND ISC AND OpenSSL AND (MPL-1.1 OR GPL-2.0-only OR LGPL-2.0-only)))
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: kopia
+  binname: kopia-ui
+  visiblename: kopia-ui
+  version: 0.23.1
+  origversion: 0.23.1-2.fcrawhide
+  status: newest
+  summary: GUI for kopia
+  maintainers:
+    - git@olivia.sh
+  licenses:
+    - Apache-2.0 AND CC0-1.0 AND Apache-2.0 AND LGPL-3.0-or-later AND MIT AND (MIT AND (BSD-3-Clause AND LGPL-2.1-or-later AND Apache-2.0 AND IJG AND MIT AND GPL-2.0-or-later AND ISC AND OpenSSL AND (MPL-1.1 OR GPL-2.0-only OR LGPL-2.0-only)))
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: kopia
+  binname: kopia-ui
+  visiblename: kopia-ui
+  version: 0.23.1
+  origversion: 0.23.1-2.fcrawhide
+  status: newest
+  summary: GUI for kopia
+  maintainers:
+    - git@olivia.sh
+  licenses:
+    - Apache-2.0 AND CC0-1.0 AND Apache-2.0 AND LGPL-3.0-or-later AND MIT AND (MIT AND (BSD-3-Clause AND LGPL-2.1-or-later AND Apache-2.0 AND IJG AND MIT AND GPL-2.0-or-later AND ISC AND OpenSSL AND (MPL-1.1 OR GPL-2.0-only OR LGPL-2.0-only)))
+  categories:
+    - Unspecified
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: kopia
+  binname: kopia
+  visiblename: kopia
+  version: 0.17.0
+  origversion: 0.17.0_2
+  status: outdated
+  summary: Fast and secure backup tool
+  maintainers:
+    - daniel.eysser@gmail.com
+  licenses:
+    - Apache-2.0
