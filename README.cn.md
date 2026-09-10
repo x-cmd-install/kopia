@@ -12,13 +12,13 @@ Cross-platform backup tool for Windows, macOS & Linux with fast, incremental bac
 x install kopia
 ```
 
-## 代码规模
+## 代码洞察
 
-合计: **127,374** 行代码（覆盖前 5 种语言、共 **1084** 个文件）。
+合计: **127,417** 行代码（覆盖前 5 种语言、共 **1084** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 117,952 | 9,641 | 33,279 | 1049 |
+| Go | 117,995 | 9,650 | 33,292 | 1049 |
 | Json | 5,480 | 0 | 0 | 5 |
 | JavaScript | 1,356 | 96 | 244 | 10 |
 | Svg | 703 | 0 | 0 | 15 |
@@ -30,7 +30,7 @@ x install kopia
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 8/22 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,22 +48,22 @@ x install kopia
 
 ## 流行度
 
-- **Star**: 14,081 · **Fork**: 725 · **开放 issue**: 1,848 · **贡献者**: 161
+- **Star**: 14,082 · **Fork**: 725 · **开放 issue**: 1,848 · **贡献者**: 163
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 3178 · **开放 PR**: 117 · **已关闭 issue**: 1087 · **开放 issue**: 761 · **提交数**: 4255
+- **发布数**: 86 · **已合并 PR**: 3181 · **开放 PR**: 114 · **已关闭 issue**: 1088 · **开放 issue**: 760 · **提交数**: 4258
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 45 | 23 | 2 | 11 | 49 |
-| last60d | 2026-07-12 | 0 | 84 | 34 | 3 | 22 | 86 |
-| 90d | 2026-06-12 | 1 | 123 | 47 | 7 | 35 | 126 |
-| last180d | 2026-03-14 | 2 | 235 | 59 | 11 | 80 | 235 |
-| 360d | 2025-09-15 | 6 | 435 | 78 | 42 | 189 | 430 |
-| last720d | 2024-09-20 | 14 | 823 | 93 | 117 | 363 | 830 |
+| 30d | 2026-08-11 | 0 | 47 | 21 | 2 | 11 | 0 |
+| last60d | 2026-07-12 | 0 | 87 | 31 | 3 | 22 | 0 |
+| 90d | 2026-06-12 | 1 | 126 | 44 | 7 | 35 | 0 |
+| last180d | 2026-03-14 | 2 | 238 | 56 | 11 | 80 | 0 |
+| 360d | 2025-09-15 | 6 | 438 | 75 | 42 | 189 | 0 |
+| last720d | 2024-09-20 | 14 | 826 | 90 | 117 | 363 | 833 |
 
 ## Release 资产
 
@@ -135,4 +135,4 @@ kopia 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:31:28Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:18:25Z._

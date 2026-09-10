@@ -14,11 +14,11 @@ x install kopia
 
 ## Code insight
 
-Total: **127,374** lines of code across **1084** files in the top 5 languages.
+Total: **127,417** lines of code across **1084** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 117,952 | 9,641 | 33,279 | 1049 |
+| Go | 117,995 | 9,650 | 33,292 | 1049 |
 | Json | 5,480 | 0 | 0 | 5 |
 | JavaScript | 1,356 | 96 | 244 | 10 |
 | Svg | 703 | 0 | 0 | 15 |
@@ -30,7 +30,7 @@ Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 8/22 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,081 · **Forks**: 725 · **Open issues**: 1,848 · **Contributors**: 161
+- **Stars**: 14,082 · **Forks**: 725 · **Open issues**: 1,848 · **Contributors**: 163
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 3178 · **Open PRs**: 117 · **Closed issues**: 1087 · **Open issues**: 761 · **Commits**: 4255
+- **Releases**: 86 · **Merged PRs**: 3181 · **Open PRs**: 114 · **Closed issues**: 1088 · **Open issues**: 760 · **Commits**: 4258
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 45 | 23 | 2 | 11 | 49 |
-| last60d | 2026-07-12 | 0 | 84 | 34 | 3 | 22 | 86 |
-| 90d | 2026-06-12 | 1 | 123 | 47 | 7 | 35 | 126 |
-| last180d | 2026-03-14 | 2 | 235 | 59 | 11 | 80 | 235 |
-| 360d | 2025-09-15 | 6 | 435 | 78 | 42 | 189 | 430 |
-| last720d | 2024-09-20 | 14 | 823 | 93 | 117 | 363 | 830 |
+| 30d | 2026-08-11 | 0 | 47 | 21 | 2 | 11 | 0 |
+| last60d | 2026-07-12 | 0 | 87 | 31 | 3 | 22 | 0 |
+| 90d | 2026-06-12 | 1 | 126 | 44 | 7 | 35 | 0 |
+| last180d | 2026-03-14 | 2 | 238 | 56 | 11 | 80 | 0 |
+| 360d | 2025-09-15 | 6 | 438 | 75 | 42 | 189 | 0 |
+| last720d | 2024-09-20 | 14 | 826 | 90 | 117 | 363 | 833 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for kopia lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:31:27Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:18:24Z._
