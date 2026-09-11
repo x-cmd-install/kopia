@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.23.1"
   latestRelease: "v0.23.1"
   latestPrerelease: "v0.6.0-rc4"
-  collectedAt: 2026-09-11T05:53:02Z
+  collectedAt: 2026-09-11T18:57:58Z
 timeline:
   created: 2015-12-19
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-06-16
   lastPrerelease: 2020-08-07
 popularity:
-  star: 14083
+  star: 14085
   watcher: 59
-  fork: 725
+  fork: 727
   release: 86
   contributor: 163
-  pullRequest: 3772
+  pullRequest: 3773
   issue: 1848
 language:
   Go: 4365705
@@ -36,7 +36,7 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 45
-    openPR: 21
+    openPR: 22
     closedIssue: 2
     openIssue: 11
     commit: 52
@@ -44,7 +44,7 @@ recent:
     since: 2026-07-13
     release: 0
     mergedPR: 87
-    openPR: 30
+    openPR: 31
     closedIssue: 3
     openIssue: 22
     commit: 89
@@ -52,7 +52,7 @@ recent:
     since: 2026-06-13
     release: 1
     mergedPR: 126
-    openPR: 43
+    openPR: 44
     closedIssue: 7
     openIssue: 35
     commit: 129
@@ -60,7 +60,7 @@ recent:
     since: 2026-03-15
     release: 2
     mergedPR: 238
-    openPR: 55
+    openPR: 56
     closedIssue: 11
     openIssue: 79
     commit: 238
@@ -68,7 +68,7 @@ recent:
     since: 2025-09-16
     release: 6
     mergedPR: 434
-    openPR: 75
+    openPR: 76
     closedIssue: 42
     openIssue: 189
     commit: 433
@@ -76,20 +76,20 @@ recent:
     since: 2024-09-21
     release: 14
     mergedPR: 826
-    openPR: 90
+    openPR: 91
     closedIssue: 117
     openIssue: 363
     commit: 831
 total:
   release: 86
   mergedPR: 3181
-  openPR: 114
+  openPR: 115
   closedIssue: 1088
   openIssue: 760
   commit: 4258
 ---
 path: /home/runner/.x-repo/github.com/kopia/kopia
-collectedAt: 2026-09-11T05:53:06Z
+collectedAt: 2026-09-11T18:58:03Z
 loc:
   Go:
     code: 117995
