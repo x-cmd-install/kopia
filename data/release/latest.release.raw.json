@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2570,
       "digest": "sha256:f420bba88544c7ee21e82293f80a1706b9bdc099d56714077bcb62a162a9a2cb",
-      "download_count": 330,
+      "download_count": 331,
       "created_at": "2026-06-16T01:27:41Z",
       "updated_at": "2026-06-16T01:27:42Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/builder-debug.yml"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1958,
       "digest": "sha256:dc0a04d4f08aeac1dccc7b3b16525b8a8a9cf9d48082d66e23b9d9930f30dc79",
-      "download_count": 365,
+      "download_count": 366,
       "created_at": "2026-06-16T01:27:34Z",
       "updated_at": "2026-06-16T01:27:34Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/CHANGELOG.md"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3947,
       "digest": "sha256:ec1089c8309867fb729b981ee77f6ebf57adb154a8094f841c2848ec8e41fb01",
-      "download_count": 2874,
+      "download_count": 2890,
       "created_at": "2026-06-16T01:27:42Z",
       "updated_at": "2026-06-16T01:27:42Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:0872308be5ff500b18b47558bca775ed35f69598633619ef3178b65d1252433a",
-      "download_count": 1270,
+      "download_count": 1277,
       "created_at": "2026-06-16T01:27:43Z",
       "updated_at": "2026-06-16T01:27:43Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/checksums.txt.sig"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 16590508,
       "digest": "sha256:6a89de59e5b84a10a44846c1199a16bf3e7e05581625d3d54dbaa4a49215ab17",
-      "download_count": 392,
+      "download_count": 394,
       "created_at": "2026-06-16T01:27:44Z",
       "updated_at": "2026-06-16T01:27:45Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-0.23.1-freebsd-experimental-x64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 15309817,
       "digest": "sha256:a4ffbc019e0b0f932e2632054e73ec521dc1e80172a00095369c53ecf4e5a6cb",
-      "download_count": 3805,
+      "download_count": 3829,
       "created_at": "2026-06-16T01:27:45Z",
       "updated_at": "2026-06-16T01:27:46Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-0.23.1-linux-arm64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 17002767,
       "digest": "sha256:416d0f84a3dbb321a8b2d8f0997b1a0a6e915babe79ee76fa6e4d2bd1e1c5178",
-      "download_count": 20021,
+      "download_count": 20199,
       "created_at": "2026-06-16T01:27:45Z",
       "updated_at": "2026-06-16T01:27:46Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-0.23.1-linux-x64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 15257600,
       "digest": "sha256:19e6ed637221f4dfd46a46e978ec4c509c386b522d746db2cd6762b217478111",
-      "download_count": 2122,
+      "download_count": 2157,
       "created_at": "2026-06-16T01:27:46Z",
       "updated_at": "2026-06-16T01:27:46Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-0.23.1-macOS-arm64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 32645120,
       "digest": "sha256:f67d9dd81a0f5169ad6579ba4c4a91fbaf4978f42defa52946a2f2277f7d55a8",
-      "download_count": 1828,
+      "download_count": 1835,
       "created_at": "2026-06-16T01:27:46Z",
       "updated_at": "2026-06-16T01:27:47Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-0.23.1-macOS-universal.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 16894596,
       "digest": "sha256:f0369d9657dbe47a1b8b6ff4e308c5958a4813b405d4e32ae9d81b3f2b3d8251",
-      "download_count": 12249,
+      "download_count": 12289,
       "created_at": "2026-06-16T01:27:47Z",
       "updated_at": "2026-06-16T01:27:48Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-0.23.1-windows-x64.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 15305400,
       "digest": "sha256:3b0018380a67946ce08030145505d5adbc57a94a13b730734a8d80daf6db48bd",
-      "download_count": 1373,
+      "download_count": 1378,
       "created_at": "2026-06-16T01:27:48Z",
       "updated_at": "2026-06-16T01:27:48Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-0.23.1.aarch64.rpm"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 16997801,
       "digest": "sha256:ee801ea9dd143a7a822ddcb34c0718ab501176eb6f5392a73cc3738d4413db32",
-      "download_count": 1498,
+      "download_count": 1503,
       "created_at": "2026-06-16T01:27:48Z",
       "updated_at": "2026-06-16T01:27:49Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-0.23.1.x86_64.rpm"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 88863945,
       "digest": "sha256:bfcf81b2c4495e78781f1b3f43c5efb90471787788c6892db23f98f1a05b58cb",
-      "download_count": 1378,
+      "download_count": 1384,
       "created_at": "2026-06-16T01:27:49Z",
       "updated_at": "2026-06-16T01:27:52Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-ui-0.23.1.aarch64.rpm"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 95593045,
       "digest": "sha256:6665d082e5436d544604648d4fc47a3f9bd10fae2f4c8421ff6fa90a3c8017cf",
-      "download_count": 1985,
+      "download_count": 1991,
       "created_at": "2026-06-16T01:27:49Z",
       "updated_at": "2026-06-16T01:27:53Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-ui-0.23.1.x86_64.rpm"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 108117416,
       "digest": "sha256:678b52a98817b77408f1a992873b9503a6ed44885277c89f04cc00f5eebea3d6",
-      "download_count": 4486,
+      "download_count": 4498,
       "created_at": "2026-06-16T01:27:49Z",
       "updated_at": "2026-06-16T01:27:52Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-ui_0.23.1_amd64.deb"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 101072940,
       "digest": "sha256:56e1a2870f7e424ed432ad5e6f77c001b4e9435a2e505a662c4acfc4035cdd77",
-      "download_count": 1528,
+      "download_count": 1533,
       "created_at": "2026-06-16T01:27:49Z",
       "updated_at": "2026-06-16T01:27:52Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-ui_0.23.1_arm64.deb"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 137818670,
       "digest": "sha256:8cc3ecb9d61cdad508efe9663a32bd6916138b6a9fe9c7ecf80af6e293d3da60",
-      "download_count": 1446,
+      "download_count": 1452,
       "created_at": "2026-06-16T01:27:34Z",
       "updated_at": "2026-06-16T01:27:40Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/KopiaUI-0.23.1-arm64.AppImage"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 149169871,
       "digest": "sha256:f2adb1869c603c66aaeabd846affd21df426c614cc8285230f5465f9389a003c",
-      "download_count": 7520,
+      "download_count": 7531,
       "created_at": "2026-06-16T01:27:34Z",
       "updated_at": "2026-06-16T01:27:41Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/KopiaUI-0.23.1-arm64.dmg"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 156437031,
       "digest": "sha256:66e1075a036e1b2446269c2a0d4d852e791a6ca0753d348cb85889f07ee04602",
-      "download_count": 5034,
+      "download_count": 5047,
       "created_at": "2026-06-16T01:27:40Z",
       "updated_at": "2026-06-16T01:27:46Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/KopiaUI-0.23.1-win.zip"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 138693461,
       "digest": "sha256:188b69c0433d7d99695d40fade187181c3e9fb6d2b18a8cc7777009edf52ed31",
-      "download_count": 2336,
+      "download_count": 2344,
       "created_at": "2026-06-16T01:27:40Z",
       "updated_at": "2026-06-16T01:27:44Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/KopiaUI-0.23.1.AppImage"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 156174455,
       "digest": "sha256:518c6ff1ed4c992085f1c2ce3eeec0d8616562d855c12b82d7da02eb2103b7a5",
-      "download_count": 2646,
+      "download_count": 2653,
       "created_at": "2026-06-16T01:27:40Z",
       "updated_at": "2026-06-16T01:27:47Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/KopiaUI-0.23.1.dmg"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 113267920,
       "digest": "sha256:a945db629e4456d6616595a9b9fda4bc0407fc02a8d18fbce8f7f89390307c13",
-      "download_count": 23111,
+      "download_count": 23187,
       "created_at": "2026-06-16T01:27:40Z",
       "updated_at": "2026-06-16T01:27:44Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/KopiaUI-Setup-0.23.1.exe"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 17071836,
       "digest": "sha256:3998c96b2db3410880ec8f6723f3c127248915896c22e6b882b352693230253a",
-      "download_count": 3769,
+      "download_count": 3778,
       "created_at": "2026-06-16T01:27:52Z",
       "updated_at": "2026-06-16T01:27:53Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia_0.23.1_linux_amd64.deb"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 15367018,
       "digest": "sha256:9503237e323062136273b2e8e133b5e459ab60d762be14c5df2e09276bc8bea3",
-      "download_count": 1616,
+      "download_count": 1621,
       "created_at": "2026-06-16T01:27:53Z",
       "updated_at": "2026-06-16T01:27:53Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia_0.23.1_linux_arm64.deb"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 695,
       "digest": "sha256:ccdc6ca8cd0d2e2670de656d741070237fc3f92c1f7c731f3690d61d4aff8af4",
-      "download_count": 266,
+      "download_count": 267,
       "created_at": "2026-06-16T01:27:53Z",
       "updated_at": "2026-06-16T01:27:53Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/latest-linux-arm.yml"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 694,
       "digest": "sha256:45d75987279c9f29717c6742c32dce0be2c5fc6f50b3b95aa6df578deb8caf9d",
-      "download_count": 2148,
+      "download_count": 2154,
       "created_at": "2026-06-16T01:27:53Z",
       "updated_at": "2026-06-16T01:27:53Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/latest-linux-arm64.yml"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 681,
       "digest": "sha256:7c4982009e7823681fcb891164dbf4c8b017fe7aff60f2e0cca35c57752dc20a",
-      "download_count": 157960,
+      "download_count": 158582,
       "created_at": "2026-06-16T01:27:53Z",
       "updated_at": "2026-06-16T01:27:54Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/latest-linux.yml"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 805,
       "digest": "sha256:22e5587573f0881fb1d80baa1d65ef4b6c1e687e265e9d3a890a92a3700d9de3",
-      "download_count": 143145,
+      "download_count": 143817,
       "created_at": "2026-06-16T01:27:54Z",
       "updated_at": "2026-06-16T01:27:54Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/latest-mac.yml"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 346,
       "digest": "sha256:1c5e8ad2856e065d2e298a0b915707257aecd3a06249497f84d6256ca7e69991",
-      "download_count": 613104,
+      "download_count": 615636,
       "created_at": "2026-06-16T01:27:54Z",
       "updated_at": "2026-06-16T01:27:54Z",
       "browser_download_url": "https://github.com/kopia/kopia/releases/download/v0.23.1/latest.yml"
