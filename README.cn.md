@@ -14,11 +14,11 @@ x install kopia
 
 ## 代码洞察
 
-合计: **127,417** 行代码（覆盖前 5 种语言、共 **1084** 个文件）。
+合计: **127,426** 行代码（覆盖前 5 种语言、共 **1084** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 117,995 | 9,650 | 33,292 | 1049 |
+| Go | 118,004 | 9,656 | 33,295 | 1049 |
 | Json | 5,480 | 0 | 0 | 5 |
 | JavaScript | 1,356 | 96 | 244 | 10 |
 | Svg | 703 | 0 | 0 | 15 |
@@ -26,11 +26,11 @@ x install kopia
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.5 / 10**
+总评分: **6.6 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 8/22 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 8/21 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -43,27 +43,27 @@ x install kopia
 ## 发布
 
 - **最新版本**: `v0.23.1` (2026-06-16)
-- **最近提交**: 2026-09-10
+- **最近提交**: 2026-09-14
 - **Release 含资产**: 44 个
 
 ## 流行度
 
-- **Star**: 14,096 · **Fork**: 727 · **开放 issue**: 1,849 · **贡献者**: 163
+- **Star**: 14,101 · **Fork**: 727 · **开放 issue**: 1,849 · **贡献者**: 163
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 3181 · **开放 PR**: 116 · **已关闭 issue**: 1088 · **开放 issue**: 761 · **提交数**: 4258
+- **发布数**: 86 · **已合并 PR**: 3183 · **开放 PR**: 116 · **已关闭 issue**: 1088 · **开放 issue**: 761 · **提交数**: 4260
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 44 | 22 | 2 | 12 | 45 |
-| last60d | 2026-07-15 | 0 | 83 | 31 | 3 | 20 | 83 |
-| 90d | 2026-06-15 | 1 | 123 | 45 | 7 | 36 | 116 |
-| last180d | 2026-03-17 | 2 | 233 | 57 | 11 | 80 | 223 |
-| 360d | 2025-09-18 | 6 | 431 | 77 | 41 | 189 | 427 |
-| last720d | 2024-09-23 | 14 | 822 | 92 | 116 | 361 | 831 |
+| 30d | 2026-08-15 | 0 | 44 | 22 | 2 | 12 | 47 |
+| last60d | 2026-07-16 | 0 | 82 | 30 | 3 | 19 | 85 |
+| 90d | 2026-06-16 | 1 | 120 | 43 | 6 | 36 | 118 |
+| last180d | 2026-03-18 | 2 | 232 | 57 | 11 | 79 | 225 |
+| 360d | 2025-09-19 | 6 | 432 | 77 | 41 | 189 | 429 |
+| last720d | 2024-09-24 | 14 | 823 | 92 | 115 | 360 | 833 |
 
 ## Release 资产
 
@@ -114,18 +114,6 @@ x install kopia
 | [latest-mac.yml](https://github.com/kopia/kopia/releases/download/v0.23.1/latest-mac.yml) | 805 B | `other` |
 | [latest.yml](https://github.com/kopia/kopia/releases/download/v0.23.1/latest.yml) | 346 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/kopia) 上共有 **27** 个发行版报告此项目。**18** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.23.1` | ✅ latest |
-| Nix unstable | `0.23.1` | ✅ latest |
-| Void | `0.17.0` | ⚠️ outdated |
-| Alpine edge | `0.23.1` | ✅ latest |
-| openSUSE Tumbleweed | `0.23.1` | ✅ latest |
-
 ## 改进这些数据
 
 kopia 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kopia` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -135,4 +123,4 @@ kopia 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:43:02Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:03:43Z._
