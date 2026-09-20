@@ -4,7 +4,7 @@
 
 Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 
-![kopia](https://repo.x-cmd.io/kopia.svg?lang=zh)
+[![x-cmd/install — kopia Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kopia.svg?lang=zh)](https://x-cmd.com/install/kopia)
 
 ## 安装
 
@@ -30,9 +30,9 @@ x install kopia
 
 评分最低的几项:
 
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Code-Review** (3/10) — Found 7/21 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install kopia
 
 ## 流行度
 
-- **Star**: 14,136 · **Fork**: 727 · **开放 issue**: 1,853 · **贡献者**: 163
+- **Star**: 14,145 · **Fork**: 729 · **开放 issue**: 1,854 · **贡献者**: 163
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 3185 · **开放 PR**: 117 · **已关闭 issue**: 1088 · **开放 issue**: 765 · **提交数**: 4262
+- **发布数**: 86 · **已合并 PR**: 3185 · **开放 PR**: 117 · **已关闭 issue**: 1088 · **开放 issue**: 766 · **提交数**: 4262
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 41 | 19 | 2 | 13 | 49 |
-| last60d | 2026-07-20 | 0 | 83 | 30 | 3 | 22 | 87 |
-| 90d | 2026-06-20 | 0 | 115 | 43 | 6 | 38 | 120 |
-| last180d | 2026-03-22 | 2 | 231 | 58 | 10 | 81 | 227 |
-| 360d | 2025-09-23 | 6 | 433 | 77 | 41 | 189 | 431 |
-| last720d | 2024-09-28 | 14 | 819 | 92 | 115 | 361 | 825 |
+| 30d | 2026-08-21 | 0 | 39 | 19 | 2 | 14 | 45 |
+| last60d | 2026-07-22 | 0 | 78 | 28 | 2 | 23 | 79 |
+| 90d | 2026-06-22 | 0 | 112 | 43 | 6 | 39 | 110 |
+| last180d | 2026-03-24 | 2 | 227 | 58 | 10 | 81 | 222 |
+| 360d | 2025-09-25 | 6 | 429 | 77 | 40 | 189 | 421 |
+| last720d | 2024-09-30 | 14 | 816 | 92 | 115 | 361 | 825 |
 
 ## Release 资产
 
@@ -123,4 +123,4 @@ kopia 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:48:29Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:49:42Z._

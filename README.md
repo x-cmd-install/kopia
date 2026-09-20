@@ -4,7 +4,7 @@
 
 Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 
-![kopia](https://repo.x-cmd.io/kopia.svg)
+[![x-cmd/install — kopia Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kopia.svg)](https://x-cmd.com/install/kopia)
 
 ## Install
 
@@ -30,9 +30,9 @@ Overall score: **6.6 / 10**
 
 Lowest-scoring checks:
 
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Code-Review** (3/10) — Found 7/21 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,136 · **Forks**: 727 · **Open issues**: 1,853 · **Contributors**: 163
+- **Stars**: 14,145 · **Forks**: 729 · **Open issues**: 1,854 · **Contributors**: 163
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 3185 · **Open PRs**: 117 · **Closed issues**: 1088 · **Open issues**: 765 · **Commits**: 4262
+- **Releases**: 86 · **Merged PRs**: 3185 · **Open PRs**: 117 · **Closed issues**: 1088 · **Open issues**: 766 · **Commits**: 4262
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 41 | 19 | 2 | 13 | 49 |
-| last60d | 2026-07-20 | 0 | 83 | 30 | 3 | 22 | 87 |
-| 90d | 2026-06-20 | 0 | 115 | 43 | 6 | 38 | 120 |
-| last180d | 2026-03-22 | 2 | 231 | 58 | 10 | 81 | 227 |
-| 360d | 2025-09-23 | 6 | 433 | 77 | 41 | 189 | 431 |
-| last720d | 2024-09-28 | 14 | 819 | 92 | 115 | 361 | 825 |
+| 30d | 2026-08-21 | 0 | 39 | 19 | 2 | 14 | 45 |
+| last60d | 2026-07-22 | 0 | 78 | 28 | 2 | 23 | 79 |
+| 90d | 2026-06-22 | 0 | 112 | 43 | 6 | 39 | 110 |
+| last180d | 2026-03-24 | 2 | 227 | 58 | 10 | 81 | 222 |
+| 360d | 2025-09-25 | 6 | 429 | 77 | 40 | 189 | 421 |
+| last720d | 2024-09-30 | 14 | 816 | 92 | 115 | 361 | 825 |
 
 ## Release assets
 
@@ -123,4 +123,4 @@ Install metadata for kopia lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:48:29Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:49:41Z._
