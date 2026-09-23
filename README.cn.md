@@ -4,7 +4,7 @@
 
 Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 
-[![x-cmd/install — kopia Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kopia.svg?lang=zh)](https://x-cmd.com/install/kopia)
+[![x-cmd/install — kopia Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kopia.svg?lang=zh)](https://x-cmd.com/install/kopia)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install kopia
 
 ## 流行度
 
-- **Star**: 14,172 · **Fork**: 734 · **开放 issue**: 1,854 · **贡献者**: 163
+- **Star**: 14,181 · **Fork**: 735 · **开放 issue**: 1,854 · **贡献者**: 163
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 3185 · **开放 PR**: 121 · **已关闭 issue**: 1088 · **开放 issue**: 766 · **提交数**: 4262
+- **发布数**: 86 · **已合并 PR**: 3185 · **开放 PR**: 123 · **已关闭 issue**: 1088 · **开放 issue**: 766 · **提交数**: 4262
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 37 | 23 | 2 | 14 | 45 |
-| last60d | 2026-07-24 | 0 | 78 | 32 | 2 | 23 | 79 |
-| 90d | 2026-06-24 | 0 | 108 | 46 | 5 | 37 | 110 |
-| last180d | 2026-03-26 | 2 | 220 | 62 | 10 | 81 | 222 |
-| 360d | 2025-09-27 | 6 | 429 | 81 | 40 | 189 | 421 |
-| last720d | 2024-10-02 | 14 | 810 | 96 | 115 | 359 | 819 |
+| 30d | 2026-08-24 | 0 | 37 | 25 | 2 | 13 | 45 |
+| last60d | 2026-07-25 | 0 | 77 | 34 | 2 | 22 | 79 |
+| 90d | 2026-06-25 | 0 | 108 | 48 | 5 | 36 | 110 |
+| last180d | 2026-03-27 | 2 | 220 | 64 | 10 | 81 | 222 |
+| 360d | 2025-09-28 | 6 | 429 | 83 | 40 | 188 | 421 |
+| last720d | 2024-10-03 | 14 | 810 | 98 | 115 | 358 | 819 |
 
 ## Release 资产
 
@@ -123,4 +123,4 @@ kopia 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:54:51Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:57:43Z._
