@@ -26,12 +26,12 @@ x install kopia
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.5 / 10**
+总评分: **6.6 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (3/10) — Found 7/22 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (3/10) — Found 7/23 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -43,27 +43,27 @@ x install kopia
 ## 发布
 
 - **最新版本**: `v0.23.1` (2026-06-16)
-- **最近提交**: 2026-09-29
+- **最近提交**: 2026-10-01
 - **Release 含资产**: 44 个
 
 ## 流行度
 
-- **Star**: 14,228 · **Fork**: 738 · **开放 issue**: 1,857 · **贡献者**: 163
+- **Star**: 14,230 · **Fork**: 738 · **开放 issue**: 1,857 · **贡献者**: 163
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 3193 · **开放 PR**: 121 · **已关闭 issue**: 1089 · **开放 issue**: 768 · **提交数**: 4270
+- **发布数**: 86 · **已合并 PR**: 3197 · **开放 PR**: 122 · **已关闭 issue**: 1089 · **开放 issue**: 768 · **提交数**: 4274
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 42 | 19 | 0 | 13 | 37 |
-| last60d | 2026-08-01 | 0 | 72 | 30 | 2 | 23 | 72 |
-| 90d | 2026-07-02 | 0 | 109 | 39 | 5 | 36 | 112 |
-| last180d | 2026-04-03 | 2 | 205 | 62 | 9 | 81 | 207 |
-| 360d | 2025-10-05 | 6 | 427 | 81 | 37 | 185 | 423 |
-| last720d | 2024-10-10 | 14 | 809 | 96 | 115 | 358 | 819 |
+| 30d | 2026-09-01 | 0 | 41 | 18 | 0 | 12 | 0 |
+| last60d | 2026-08-02 | 0 | 76 | 31 | 2 | 22 | 0 |
+| 90d | 2026-07-03 | 0 | 113 | 40 | 5 | 36 | 0 |
+| last180d | 2026-04-04 | 2 | 209 | 63 | 9 | 73 | 0 |
+| 360d | 2025-10-06 | 6 | 430 | 82 | 37 | 185 | 0 |
+| last720d | 2024-10-11 | 14 | 813 | 97 | 115 | 358 | 820 |
 
 ## Release 资产
 
@@ -123,4 +123,4 @@ kopia 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T06:24:58Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T06:46:22Z._
