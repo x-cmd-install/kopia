@@ -30,7 +30,7 @@ Overall score: **6.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 7/22 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 8/22 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,230 · **Forks**: 738 · **Open issues**: 1,857 · **Contributors**: 163
+- **Stars**: 14,233 · **Forks**: 739 · **Open issues**: 1,857 · **Contributors**: 163
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 3197 · **Open PRs**: 122 · **Closed issues**: 1089 · **Open issues**: 768 · **Commits**: 4274
+- **Releases**: 86 · **Merged PRs**: 3197 · **Open PRs**: 127 · **Closed issues**: 1089 · **Open issues**: 768 · **Commits**: 4274
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 41 | 18 | 0 | 12 | 0 |
-| last60d | 2026-08-02 | 0 | 76 | 31 | 2 | 22 | 0 |
-| 90d | 2026-07-03 | 0 | 113 | 40 | 5 | 36 | 0 |
-| last180d | 2026-04-04 | 2 | 209 | 63 | 9 | 73 | 0 |
-| 360d | 2025-10-06 | 6 | 430 | 82 | 37 | 185 | 0 |
-| last720d | 2024-10-11 | 14 | 813 | 97 | 115 | 358 | 820 |
+| 30d | 2026-09-02 | 0 | 39 | 23 | 0 | 12 | 41 |
+| last60d | 2026-08-03 | 0 | 73 | 37 | 2 | 22 | 76 |
+| 90d | 2026-07-04 | 0 | 112 | 46 | 5 | 36 | 116 |
+| last180d | 2026-04-05 | 2 | 209 | 68 | 9 | 73 | 211 |
+| 360d | 2025-10-07 | 6 | 429 | 87 | 37 | 185 | 427 |
+| last720d | 2024-10-12 | 14 | 812 | 102 | 115 | 356 | 820 |
 
 ## Release assets
 
@@ -123,4 +123,4 @@ Install metadata for kopia lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:46:20Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:20:24Z._

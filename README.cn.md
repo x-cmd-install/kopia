@@ -30,7 +30,7 @@ x install kopia
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 7/22 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 8/22 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,22 +48,22 @@ x install kopia
 
 ## 流行度
 
-- **Star**: 14,230 · **Fork**: 738 · **开放 issue**: 1,857 · **贡献者**: 163
+- **Star**: 14,233 · **Fork**: 739 · **开放 issue**: 1,857 · **贡献者**: 163
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 3197 · **开放 PR**: 122 · **已关闭 issue**: 1089 · **开放 issue**: 768 · **提交数**: 4274
+- **发布数**: 86 · **已合并 PR**: 3197 · **开放 PR**: 127 · **已关闭 issue**: 1089 · **开放 issue**: 768 · **提交数**: 4274
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 41 | 18 | 0 | 12 | 0 |
-| last60d | 2026-08-02 | 0 | 76 | 31 | 2 | 22 | 0 |
-| 90d | 2026-07-03 | 0 | 113 | 40 | 5 | 36 | 0 |
-| last180d | 2026-04-04 | 2 | 209 | 63 | 9 | 73 | 0 |
-| 360d | 2025-10-06 | 6 | 430 | 82 | 37 | 185 | 0 |
-| last720d | 2024-10-11 | 14 | 813 | 97 | 115 | 358 | 820 |
+| 30d | 2026-09-02 | 0 | 39 | 23 | 0 | 12 | 41 |
+| last60d | 2026-08-03 | 0 | 73 | 37 | 2 | 22 | 76 |
+| 90d | 2026-07-04 | 0 | 112 | 46 | 5 | 36 | 116 |
+| last180d | 2026-04-05 | 2 | 209 | 68 | 9 | 73 | 211 |
+| 360d | 2025-10-07 | 6 | 429 | 87 | 37 | 185 | 427 |
+| last720d | 2024-10-12 | 14 | 812 | 102 | 115 | 356 | 820 |
 
 ## Release 资产
 
@@ -123,4 +123,4 @@ kopia 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261001.yml` · 2026-10-01T06:46:22Z._
+_数据快照: `data/card/261002.yml` · 2026-10-02T06:20:26Z._
