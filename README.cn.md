@@ -30,8 +30,8 @@ x install kopia
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 7/20 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (3/10) — Found 5/16 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -43,27 +43,27 @@ x install kopia
 ## 发布
 
 - **最新版本**: `v0.23.1` (2026-06-16)
-- **最近提交**: 2026-10-03
+- **最近提交**: 2026-10-05
 - **Release 含资产**: 44 个
 
 ## 流行度
 
-- **Star**: 14,257 · **Fork**: 742 · **开放 issue**: 1,860 · **贡献者**: 163
+- **Star**: 14,266 · **Fork**: 745 · **开放 issue**: 1,860 · **贡献者**: 163
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 3203 · **开放 PR**: 128 · **已关闭 issue**: 1090 · **开放 issue**: 770 · **提交数**: 4280
+- **发布数**: 86 · **已合并 PR**: 3207 · **开放 PR**: 125 · **已关闭 issue**: 1090 · **开放 issue**: 770 · **提交数**: 4284
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 38 | 22 | 1 | 13 | 22 |
-| last60d | 2026-08-06 | 0 | 74 | 36 | 3 | 24 | 78 |
-| 90d | 2026-07-07 | 0 | 114 | 47 | 6 | 37 | 113 |
-| last180d | 2026-04-08 | 2 | 210 | 69 | 10 | 74 | 206 |
-| 360d | 2025-10-10 | 6 | 432 | 88 | 37 | 185 | 429 |
-| last720d | 2024-10-15 | 14 | 814 | 103 | 116 | 357 | 824 |
+| 30d | 2026-09-06 | 0 | 35 | 17 | 1 | 12 | 26 |
+| last60d | 2026-08-07 | 0 | 78 | 33 | 3 | 22 | 82 |
+| 90d | 2026-07-08 | 0 | 117 | 44 | 6 | 36 | 117 |
+| last180d | 2026-04-09 | 2 | 212 | 65 | 10 | 74 | 210 |
+| 360d | 2025-10-11 | 6 | 435 | 85 | 36 | 184 | 433 |
+| last720d | 2024-10-16 | 14 | 816 | 100 | 116 | 356 | 824 |
 
 ## Release 资产
 
@@ -123,4 +123,4 @@ kopia 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261005.yml` · 2026-10-05T06:30:09Z._
+_数据快照: `data/card/261006.yml` · 2026-10-06T07:12:25Z._
