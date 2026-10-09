@@ -26,7 +26,7 @@ Total: **127,807** lines of code across **1086** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.5 / 10**
+Overall score: **6.3 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.23.1` (2026-06-16)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-09
 - **Assets in release**: 44
 
 ## Popularity
 
-- **Stars**: 14,279 · **Forks**: 745 · **Open issues**: 1,861 · **Contributors**: 163
+- **Stars**: 14,288 · **Forks**: 747 · **Open issues**: 1,862 · **Contributors**: 162
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 3207 · **Open PRs**: 126 · **Closed issues**: 1090 · **Open issues**: 771 · **Commits**: 4284
+- **Releases**: 86 · **Merged PRs**: 3208 · **Open PRs**: 129 · **Closed issues**: 1090 · **Open issues**: 772 · **Commits**: 4285
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 30 | 18 | 1 | 13 | 26 |
-| last60d | 2026-08-09 | 0 | 77 | 34 | 3 | 23 | 82 |
-| 90d | 2026-07-10 | 0 | 115 | 44 | 4 | 36 | 117 |
-| last180d | 2026-04-11 | 2 | 211 | 66 | 10 | 74 | 210 |
-| 360d | 2025-10-13 | 6 | 433 | 86 | 36 | 185 | 433 |
-| last720d | 2024-10-18 | 14 | 812 | 101 | 116 | 357 | 820 |
+| 30d | 2026-09-09 | 0 | 30 | 20 | 1 | 14 | 27 |
+| last60d | 2026-08-10 | 0 | 77 | 37 | 3 | 24 | 83 |
+| 90d | 2026-07-11 | 0 | 114 | 47 | 4 | 37 | 118 |
+| last180d | 2026-04-12 | 2 | 212 | 69 | 10 | 75 | 211 |
+| 360d | 2025-10-14 | 6 | 434 | 89 | 36 | 185 | 434 |
+| last720d | 2024-10-19 | 14 | 812 | 104 | 116 | 358 | 819 |
 
 ## Release assets
 
@@ -123,4 +123,4 @@ Install metadata for kopia lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:50:43Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:54:17Z._
