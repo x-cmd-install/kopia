@@ -26,12 +26,12 @@ x install kopia
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.3 / 10**
+总评分: **6.4 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (2/10) — Found 3/14 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (3/10) — Found 5/16 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -48,22 +48,22 @@ x install kopia
 
 ## 流行度
 
-- **Star**: 14,288 · **Fork**: 747 · **开放 issue**: 1,862 · **贡献者**: 162
+- **Star**: 14,297 · **Fork**: 749 · **开放 issue**: 1,863 · **贡献者**: 162
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 3208 · **开放 PR**: 129 · **已关闭 issue**: 1090 · **开放 issue**: 772 · **提交数**: 4285
+- **发布数**: 86 · **已合并 PR**: 3210 · **开放 PR**: 127 · **已关闭 issue**: 1090 · **开放 issue**: 773 · **提交数**: 4287
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 30 | 20 | 1 | 14 | 27 |
-| last60d | 2026-08-10 | 0 | 77 | 37 | 3 | 24 | 83 |
-| 90d | 2026-07-11 | 0 | 114 | 47 | 4 | 37 | 118 |
-| last180d | 2026-04-12 | 2 | 212 | 69 | 10 | 75 | 211 |
-| 360d | 2025-10-14 | 6 | 434 | 89 | 36 | 185 | 434 |
-| last720d | 2024-10-19 | 14 | 812 | 104 | 116 | 358 | 819 |
+| 30d | 2026-09-10 | 0 | 28 | 16 | 1 | 14 | 29 |
+| last60d | 2026-08-11 | 0 | 76 | 35 | 3 | 25 | 85 |
+| 90d | 2026-07-12 | 0 | 116 | 45 | 4 | 36 | 120 |
+| last180d | 2026-04-13 | 2 | 211 | 67 | 10 | 76 | 213 |
+| 360d | 2025-10-15 | 6 | 435 | 86 | 35 | 186 | 436 |
+| last720d | 2024-10-20 | 14 | 811 | 102 | 116 | 359 | 820 |
 
 ## Release 资产
 
@@ -123,4 +123,4 @@ kopia 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261009.yml` · 2026-10-09T06:54:18Z._
+_数据快照: `data/card/261010.yml` · 2026-10-10T06:33:28Z._
