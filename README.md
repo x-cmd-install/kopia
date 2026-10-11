@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,297 · **Forks**: 749 · **Open issues**: 1,863 · **Contributors**: 162
+- **Stars**: 14,308 · **Forks**: 749 · **Open issues**: 1,864 · **Contributors**: 162
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 3210 · **Open PRs**: 127 · **Closed issues**: 1090 · **Open issues**: 773 · **Commits**: 4287
+- **Releases**: 86 · **Merged PRs**: 3210 · **Open PRs**: 127 · **Closed issues**: 1090 · **Open issues**: 774 · **Commits**: 4287
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 28 | 16 | 1 | 14 | 29 |
-| last60d | 2026-08-11 | 0 | 76 | 35 | 3 | 25 | 85 |
-| 90d | 2026-07-12 | 0 | 116 | 45 | 4 | 36 | 120 |
-| last180d | 2026-04-13 | 2 | 211 | 67 | 10 | 76 | 213 |
-| 360d | 2025-10-15 | 6 | 435 | 86 | 35 | 186 | 436 |
-| last720d | 2024-10-20 | 14 | 811 | 102 | 116 | 359 | 820 |
+| 30d | 2026-09-11 | 0 | 28 | 15 | 1 | 15 | 29 |
+| last60d | 2026-08-12 | 0 | 74 | 35 | 3 | 26 | 85 |
+| 90d | 2026-07-13 | 0 | 116 | 44 | 4 | 37 | 120 |
+| last180d | 2026-04-14 | 2 | 209 | 67 | 10 | 77 | 213 |
+| 360d | 2025-10-16 | 6 | 435 | 85 | 35 | 187 | 436 |
+| last720d | 2024-10-21 | 14 | 810 | 102 | 116 | 360 | 817 |
 
 ## Release assets
 
@@ -123,4 +123,4 @@ Install metadata for kopia lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:33:26Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:37:41Z._
