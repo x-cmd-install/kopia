@@ -26,13 +26,13 @@ Total: **127,716** lines of code across **1088** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.3 / 10**
+Overall score: **6.4 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (0/10) — Found 1/15 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Code-Review** (0/10) — Found 1/15 approved changesets -- score normalized to 0
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,406 · **Forks**: 766 · **Open issues**: 1,873 · **Contributors**: 162
+- **Stars**: 14,417 · **Forks**: 767 · **Open issues**: 1,873 · **Contributors**: 162
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 40 | 21 | 1 | 18 | 41 |
-| last60d | 2026-08-24 | 0 | 80 | 43 | 3 | 31 | 88 |
-| 90d | 2026-07-25 | 0 | 120 | 51 | 3 | 40 | 126 |
-| last180d | 2026-04-26 | 2 | 214 | 78 | 10 | 77 | 219 |
-| 360d | 2025-10-28 | 6 | 429 | 96 | 35 | 183 | 421 |
-| last720d | 2024-11-02 | 14 | 806 | 113 | 114 | 365 | 814 |
+| 30d | 2026-09-24 | 0 | 40 | 20 | 1 | 17 | 41 |
+| last60d | 2026-08-25 | 0 | 80 | 43 | 2 | 31 | 88 |
+| 90d | 2026-07-26 | 0 | 120 | 51 | 3 | 40 | 126 |
+| last180d | 2026-04-27 | 2 | 214 | 78 | 10 | 77 | 219 |
+| 360d | 2025-10-29 | 6 | 422 | 96 | 35 | 183 | 421 |
+| last720d | 2024-11-03 | 14 | 806 | 113 | 114 | 364 | 814 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for kopia lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:32:06Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:30:05Z._
