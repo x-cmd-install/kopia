@@ -30,9 +30,9 @@ x install kopia
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/15 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 2/16 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Security-Policy** (0/10) — security policy file not detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install kopia
 ## 发布
 
 - **最新版本**: `v0.23.1` (2026-06-16)
-- **最近提交**: 2026-10-29
+- **最近提交**: 2026-10-31
 - **Release 含资产**: 44 个
 
 ## 流行度
 
-- **Star**: 14,523 · **Fork**: 780 · **开放 issue**: 1,876 · **贡献者**: 162
+- **Star**: 14,537 · **Fork**: 782 · **开放 issue**: 1,877 · **贡献者**: 162
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 3236 · **开放 PR**: 142 · **已关闭 issue**: 1094 · **开放 issue**: 782 · **提交数**: 4313
+- **发布数**: 86 · **已合并 PR**: 3237 · **开放 PR**: 143 · **已关闭 issue**: 1094 · **开放 issue**: 783 · **提交数**: 4314
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 43 | 26 | 2 | 17 | 39 |
-| last60d | 2026-08-31 | 0 | 85 | 44 | 3 | 29 | 90 |
-| 90d | 2026-08-01 | 0 | 115 | 54 | 5 | 39 | 124 |
-| last180d | 2026-05-03 | 2 | 212 | 81 | 12 | 77 | 214 |
-| 360d | 2025-11-04 | 6 | 416 | 101 | 36 | 179 | 414 |
-| last720d | 2024-11-09 | 14 | 807 | 118 | 116 | 363 | 812 |
+| 30d | 2026-10-01 | 0 | 35 | 26 | 2 | 18 | 40 |
+| last60d | 2026-09-01 | 0 | 81 | 44 | 2 | 30 | 91 |
+| 90d | 2026-08-02 | 0 | 116 | 55 | 5 | 39 | 125 |
+| last180d | 2026-05-04 | 2 | 213 | 82 | 12 | 78 | 215 |
+| 360d | 2025-11-05 | 6 | 412 | 102 | 36 | 180 | 415 |
+| last720d | 2024-11-10 | 14 | 808 | 119 | 116 | 364 | 813 |
 
 ## Release 资产
 
@@ -135,4 +135,4 @@ kopia 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261030.yml` · 2026-10-30T06:50:06Z._
+_数据快照: `data/card/261031.yml` · 2026-10-31T06:21:50Z._

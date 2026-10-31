@@ -30,9 +30,9 @@ Overall score: **7.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/15 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 2/16 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Security-Policy** (0/10) — security policy file not detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.23.1` (2026-06-16)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-31
 - **Assets in release**: 44
 
 ## Popularity
 
-- **Stars**: 14,523 · **Forks**: 780 · **Open issues**: 1,876 · **Contributors**: 162
+- **Stars**: 14,537 · **Forks**: 782 · **Open issues**: 1,877 · **Contributors**: 162
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 3236 · **Open PRs**: 142 · **Closed issues**: 1094 · **Open issues**: 782 · **Commits**: 4313
+- **Releases**: 86 · **Merged PRs**: 3237 · **Open PRs**: 143 · **Closed issues**: 1094 · **Open issues**: 783 · **Commits**: 4314
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 43 | 26 | 2 | 17 | 39 |
-| last60d | 2026-08-31 | 0 | 85 | 44 | 3 | 29 | 90 |
-| 90d | 2026-08-01 | 0 | 115 | 54 | 5 | 39 | 124 |
-| last180d | 2026-05-03 | 2 | 212 | 81 | 12 | 77 | 214 |
-| 360d | 2025-11-04 | 6 | 416 | 101 | 36 | 179 | 414 |
-| last720d | 2024-11-09 | 14 | 807 | 118 | 116 | 363 | 812 |
+| 30d | 2026-10-01 | 0 | 35 | 26 | 2 | 18 | 40 |
+| last60d | 2026-09-01 | 0 | 81 | 44 | 2 | 30 | 91 |
+| 90d | 2026-08-02 | 0 | 116 | 55 | 5 | 39 | 125 |
+| last180d | 2026-05-04 | 2 | 213 | 82 | 12 | 78 | 215 |
+| 360d | 2025-11-05 | 6 | 412 | 102 | 36 | 180 | 415 |
+| last720d | 2024-11-10 | 14 | 808 | 119 | 116 | 364 | 813 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for kopia lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:50:05Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:21:49Z._
