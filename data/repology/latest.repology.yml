@@ -1,42 +1,10 @@
-- repo: alpine_edge
-  subrepo: testing
+- repo: homebrew
   srcname: kopia
-  binname: kopia
   visiblename: kopia
   version: 0.23.1
-  origversion: 0.23.1-r0
+  origversion: null
   status: newest
-  summary: Fast and secure backup tool
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_edge
-  subrepo: testing
-  srcname: kopia
-  binname: kopia-bash-completion
-  visiblename: kopia-bash-completion
-  version: 0.23.1
-  origversion: 0.23.1-r0
-  status: newest
-  summary: Bash completions for kopia
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_edge
-  subrepo: testing
-  srcname: kopia
-  binname: kopia-zsh-completion
-  visiblename: kopia-zsh-completion
-  version: 0.23.1
-  origversion: 0.23.1-r0
-  status: newest
-  summary: Zsh completions for kopia
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - Apache-2.0
+  summary: Fast and secure open-source backup
 - repo: alt_p11
   srcname: kopia
   binnames:
@@ -122,13 +90,6 @@
     - MIT
   categories:
     - app-backup
-- repo: homebrew
-  srcname: kopia
-  visiblename: kopia
-  version: 0.23.1
-  origversion: null
-  status: newest
-  summary: Fast and secure open-source backup
 - repo: liguros_stable
   srcname: app-backup/kopia
   visiblename: app-backup/kopia
