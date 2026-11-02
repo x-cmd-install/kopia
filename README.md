@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,545 · **Forks**: 782 · **Open issues**: 1,878 · **Contributors**: 162
+- **Stars**: 14,555 · **Forks**: 782 · **Open issues**: 1,878 · **Contributors**: 162
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 3237 · **Open PRs**: 144 · **Closed issues**: 1094 · **Open issues**: 784 · **Commits**: 4314
+- **Releases**: 86 · **Merged PRs**: 3237 · **Open PRs**: 150 · **Closed issues**: 1094 · **Open issues**: 784 · **Commits**: 4314
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 34 | 27 | 1 | 19 | 40 |
-| last60d | 2026-09-02 | 0 | 79 | 44 | 2 | 31 | 91 |
-| 90d | 2026-08-03 | 0 | 113 | 56 | 5 | 40 | 125 |
-| last180d | 2026-05-05 | 2 | 208 | 83 | 12 | 78 | 215 |
-| 360d | 2025-11-06 | 6 | 407 | 103 | 36 | 181 | 415 |
-| last720d | 2024-11-11 | 14 | 806 | 120 | 116 | 364 | 813 |
+| 30d | 2026-10-03 | 0 | 32 | 33 | 1 | 19 | 29 |
+| last60d | 2026-09-03 | 0 | 74 | 49 | 2 | 31 | 65 |
+| 90d | 2026-08-04 | 0 | 110 | 61 | 5 | 40 | 114 |
+| last180d | 2026-05-06 | 2 | 208 | 89 | 12 | 76 | 208 |
+| 360d | 2025-11-07 | 6 | 406 | 109 | 36 | 180 | 398 |
+| last720d | 2024-11-12 | 14 | 806 | 126 | 116 | 361 | 813 |
 
 ## Release assets
 
@@ -116,14 +116,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **27** distros on [repology.org](https://repology.org/project/kopia). **20** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **24** distros on [repology.org](https://repology.org/project/kopia). **17** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `0.23.1` | ✅ latest |
 | Nix unstable | `0.23.1` | ✅ latest |
 | Void | `0.17.0` | ⚠️ outdated |
-| Alpine edge | `0.23.1` | ✅ latest |
 | openSUSE Tumbleweed | `0.23.1` | ✅ latest |
 
 ## Improve this data
@@ -135,4 +134,4 @@ Install metadata for kopia lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:53:53Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:54:50Z._
