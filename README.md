@@ -14,23 +14,23 @@ x install kopia
 
 ## Code insight
 
-Total: **127,716** lines of code across **1088** files in the top 5 languages.
+Total: **127,724** lines of code across **1088** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 118,291 | 9,657 | 33,372 | 1053 |
-| Json | 5,465 | 0 | 0 | 5 |
+| Json | 5,473 | 0 | 0 | 5 |
 | JavaScript | 1,365 | 98 | 247 | 10 |
 | Makefile | 707 | 86 | 222 | 5 |
 | Svg | 703 | 0 | 0 | 15 |
 
 ## OpenSSF Scorecard
 
-Overall score: **7.2 / 10**
+Overall score: **7.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 2/16 approved changesets -- score normalized to 1
+- **Code-Review** (2/10) — Found 4/15 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.23.1` (2026-06-16)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-03
 - **Assets in release**: 44
 
 ## Popularity
 
-- **Stars**: 14,555 · **Forks**: 782 · **Open issues**: 1,878 · **Contributors**: 162
+- **Stars**: 14,565 · **Forks**: 784 · **Open issues**: 1,878 · **Contributors**: 162
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 3237 · **Open PRs**: 150 · **Closed issues**: 1094 · **Open issues**: 784 · **Commits**: 4314
+- **Releases**: 86 · **Merged PRs**: 3245 · **Open PRs**: 143 · **Closed issues**: 1095 · **Open issues**: 783 · **Commits**: 4322
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 32 | 33 | 1 | 19 | 29 |
-| last60d | 2026-09-03 | 0 | 74 | 49 | 2 | 31 | 65 |
-| 90d | 2026-08-04 | 0 | 110 | 61 | 5 | 40 | 114 |
-| last180d | 2026-05-06 | 2 | 208 | 89 | 12 | 76 | 208 |
-| 360d | 2025-11-07 | 6 | 406 | 109 | 36 | 180 | 398 |
-| last720d | 2024-11-12 | 14 | 806 | 126 | 116 | 361 | 813 |
+| 30d | 2026-10-04 | 0 | 36 | 25 | 1 | 18 | 37 |
+| last60d | 2026-09-04 | 0 | 82 | 42 | 2 | 31 | 73 |
+| 90d | 2026-08-05 | 0 | 118 | 53 | 5 | 40 | 122 |
+| last180d | 2026-05-07 | 2 | 215 | 81 | 12 | 76 | 216 |
+| 360d | 2025-11-08 | 6 | 414 | 101 | 36 | 180 | 406 |
+| last720d | 2024-11-13 | 14 | 814 | 119 | 116 | 361 | 817 |
 
 ## Release assets
 
@@ -116,7 +116,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **24** distros on [repology.org](https://repology.org/project/kopia). **17** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **24** distros on [repology.org](https://repology.org/project/kopia). **18** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -134,4 +134,4 @@ Install metadata for kopia lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:54:50Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:48:15Z._
