@@ -1,22 +1,15 @@
-- repo: homebrew
-  srcname: kopia
-  visiblename: kopia
-  version: 0.23.1
-  origversion: null
-  status: newest
-  summary: Fast and secure open-source backup
 - repo: alt_p11
   srcname: kopia
   binnames:
     - kopia
     - kopia-debuginfo
   visiblename: kopia
-  version: 0.15.0
-  origversion: 0.15.0-alt2
-  status: outdated
+  version: 0.23.1
+  origversion: 0.23.1-alt2
+  status: newest
   summary: Backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication (CLI)
   maintainers:
-    - asheplyakov@altlinux.org
+    - shaba@altlinux.org
   licenses:
     - Apache-2.0
   categories:
@@ -73,6 +66,16 @@
     - eduardo@freebsd.org
   categories:
     - sysutils
+- repo: slackbuilds
+  srcname: system/kopia
+  visiblename: system/kopia
+  version: 0.23.1
+  origversion: null
+  status: newest
+  maintainers:
+    - rizitis@gmail.com
+  categories:
+    - system
 - repo: gentoo_ovl_guru
   srcname: app-backup/kopia
   visiblename: app-backup/kopia
@@ -90,6 +93,13 @@
     - MIT
   categories:
     - app-backup
+- repo: homebrew
+  srcname: kopia
+  visiblename: kopia
+  version: 0.23.1
+  origversion: null
+  status: newest
+  summary: Fast and secure open-source backup
 - repo: liguros_stable
   srcname: app-backup/kopia
   visiblename: app-backup/kopia
@@ -233,16 +243,6 @@
   status: newest
   licenses:
     - Apache-2.0
-- repo: slackbuilds
-  srcname: system/kopia
-  visiblename: system/kopia
-  version: 0.23.1
-  origversion: null
-  status: newest
-  maintainers:
-    - rizitis@gmail.com
-  categories:
-    - system
 - repo: terra_rawhide
   srcname: kopia
   binname: kopia
