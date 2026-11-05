@@ -1,3 +1,15 @@
+- repo: aur
+  srcname: kopia
+  binname: kopia
+  visiblename: kopia
+  version: 0.23.1
+  origversion: 0.23.1-1
+  status: newest
+  summary: A cross-platform backup-tool with encryption, deduplication, compression and cloud support.
+  maintainers:
+    - gromit@aur
+  licenses:
+    - Apache-2.0
 - repo: alt_p11
   srcname: kopia
   binnames:
@@ -31,18 +43,6 @@
   categories:
     - Archiving/Backup
 - repo: aur
-  srcname: kopia
-  binname: kopia
-  visiblename: kopia
-  version: 0.23.1
-  origversion: 0.23.1-1
-  status: newest
-  summary: A cross-platform backup-tool with encryption, deduplication, compression and cloud support.
-  maintainers:
-    - gromit@aur
-  licenses:
-    - Apache-2.0
-- repo: aur
   srcname: kopia-bin
   binname: kopia-bin
   visiblename: kopia-bin
@@ -54,6 +54,22 @@
     - jtprince@aur
   licenses:
     - Apache
+- repo: fedora_rawhide
+  subrepo: development
+  srcname: kopia
+  binnames:
+    - kopia
+    - kopia-debuginfo
+    - kopia-debugsource
+  visiblename: kopia
+  version: 0.23.1
+  origversion: 0.23.1-1.fc46
+  status: newest
+  summary: Incremental backup tool with encryption, compression and deduplication
+  licenses:
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND CC0-1.0 AND CC-BY-4.0 AND ISC AND MIT AND MPL-2.0 AND 0BSD
+  categories:
+    - Unspecified
 - repo: freebsd
   srcname: sysutils/kopia
   binname: kopia
@@ -66,16 +82,6 @@
     - eduardo@freebsd.org
   categories:
     - sysutils
-- repo: slackbuilds
-  srcname: system/kopia
-  visiblename: system/kopia
-  version: 0.23.1
-  origversion: null
-  status: newest
-  maintainers:
-    - rizitis@gmail.com
-  categories:
-    - system
 - repo: gentoo_ovl_guru
   srcname: app-backup/kopia
   visiblename: app-backup/kopia
@@ -243,6 +249,16 @@
   status: newest
   licenses:
     - Apache-2.0
+- repo: slackbuilds
+  srcname: system/kopia
+  visiblename: system/kopia
+  version: 0.23.1
+  origversion: null
+  status: newest
+  maintainers:
+    - rizitis@gmail.com
+  categories:
+    - system
 - repo: terra_rawhide
   srcname: kopia
   binname: kopia
