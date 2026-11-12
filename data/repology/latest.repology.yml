@@ -1,3 +1,24 @@
+- repo: slackbuilds
+  srcname: system/kopia
+  visiblename: system/kopia
+  version: 0.23.1
+  origversion: null
+  status: newest
+  maintainers:
+    - rizitis@gmail.com
+  categories:
+    - system
+- repo: nix_stable_24_11
+  srcname: kopia
+  visiblename: kopia
+  version: 0.17.0
+  origversion: null
+  status: outdated
+  summary: Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication
+  maintainers:
+    - bigras.bruno@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_25_05
   srcname: kopia
   visiblename: kopia
@@ -9,13 +30,6 @@
     - bigras.bruno@gmail.com
   licenses:
     - Apache-2.0
-- repo: homebrew
-  srcname: kopia
-  visiblename: kopia
-  version: 0.23.1
-  origversion: null
-  status: newest
-  summary: Fast and secure open-source backup
 - repo: alt_p11
   srcname: kopia
   binnames:
@@ -93,7 +107,7 @@
   binname: kopia
   visiblename: sysutils/kopia
   version: 0.23.1
-  origversion: 0.23.1_6
+  origversion: 0.23.1_7
   status: newest
   summary: Fast and secure open-source backup/restore tool
   maintainers:
@@ -117,6 +131,13 @@
     - MIT
   categories:
     - app-backup
+- repo: homebrew
+  srcname: kopia
+  visiblename: kopia
+  version: 0.23.1
+  origversion: null
+  status: newest
+  summary: Fast and secure open-source backup
 - repo: liguros_stable
   srcname: app-backup/kopia
   visiblename: app-backup/kopia
@@ -152,17 +173,6 @@
   categories:
     - app-backup
 - repo: nix_stable_24_05
-  srcname: kopia
-  visiblename: kopia
-  version: 0.17.0
-  origversion: null
-  status: outdated
-  summary: Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication
-  maintainers:
-    - bigras.bruno@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
   srcname: kopia
   visiblename: kopia
   version: 0.17.0
@@ -249,16 +259,6 @@
   status: newest
   licenses:
     - Apache-2.0
-- repo: slackbuilds
-  srcname: system/kopia
-  visiblename: system/kopia
-  version: 0.23.1
-  origversion: null
-  status: newest
-  maintainers:
-    - rizitis@gmail.com
-  categories:
-    - system
 - repo: terra_rawhide
   srcname: kopia
   binname: kopia
