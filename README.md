@@ -26,12 +26,12 @@ Total: **127,901** lines of code across **1089** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.3 / 10**
+Overall score: **7.4 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (3/10) — Found 4/13 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (2/10) — Found 3/12 approved changesets -- score normalized to 2
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.23.1` (2026-06-16)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-15
 - **Assets in release**: 44
 
 ## Popularity
 
-- **Stars**: 14,688 · **Forks**: 803 · **Open issues**: 1,888 · **Contributors**: 162
+- **Stars**: 14,704 · **Forks**: 803 · **Open issues**: 1,889 · **Contributors**: 163
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 3252 · **Open PRs**: 156 · **Closed issues**: 1095 · **Open issues**: 793 · **Commits**: 4329
+- **Releases**: 86 · **Merged PRs**: 3253 · **Open PRs**: 156 · **Closed issues**: 1096 · **Open issues**: 793 · **Commits**: 4330
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 30 | 32 | 0 | 20 | 30 |
-| last60d | 2026-09-15 | 0 | 67 | 47 | 2 | 33 | 68 |
-| 90d | 2026-08-16 | 0 | 113 | 65 | 5 | 48 | 122 |
-| last180d | 2026-05-18 | 1 | 215 | 93 | 10 | 83 | 219 |
-| 360d | 2025-11-19 | 5 | 390 | 113 | 30 | 181 | 389 |
-| last720d | 2024-11-24 | 11 | 805 | 132 | 108 | 365 | 807 |
+| 30d | 2026-10-16 | 0 | 31 | 31 | 1 | 20 | 25 |
+| last60d | 2026-09-16 | 0 | 67 | 46 | 3 | 33 | 68 |
+| 90d | 2026-08-17 | 0 | 114 | 65 | 6 | 45 | 116 |
+| last180d | 2026-05-19 | 1 | 215 | 93 | 11 | 82 | 216 |
+| 360d | 2025-11-20 | 5 | 390 | 113 | 31 | 180 | 380 |
+| last720d | 2024-11-25 | 11 | 803 | 132 | 109 | 364 | 808 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for kopia lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:38:29Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:43:18Z._
