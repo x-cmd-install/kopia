@@ -1,0 +1,176 @@
+about:
+  description: "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included."
+  license: Apache-2.0
+  homepage: https://kopia.io
+  head: 0f7c76c
+  archived: false
+  latestVersion: "v0.23.1"
+  latestRelease: "v0.23.1"
+  latestPrerelease: "v0.6.0-rc4"
+  collectedAt: 2026-11-17T10:43:36Z
+timeline:
+  created: 2015-12-19
+  lastCommit: 2026-11-17
+  lastVersion: 2026-06-16
+  lastRelease: 2026-06-16
+  lastPrerelease: 2020-08-07
+popularity:
+  star: 14728
+  watcher: 57
+  fork: 805
+  release: 86
+  contributor: 165
+  pullRequest: 3917
+  issue: 1892
+language:
+  Go: 4384597
+  JavaScript: 42773
+  Makefile: 34335
+  Shell: 26320
+  HTML: 15562
+  Dockerfile: 1163
+  SCSS: 62
+totalBytes: 4504812
+recent:
+  last30d:
+    since: 2026-10-18
+    release: 0
+    mergedPR: 33
+    openPR: 25
+    closedIssue: 1
+    openIssue: 22
+    commit: 29
+  last60d:
+    since: 2026-09-18
+    release: 0
+    mergedPR: 71
+    openPR: 43
+    closedIssue: 3
+    openIssue: 35
+    commit: 72
+  last90d:
+    since: 2026-08-19
+    release: 0
+    mergedPR: 113
+    openPR: 60
+    closedIssue: 6
+    openIssue: 48
+    commit: 120
+  last180d:
+    since: 2026-05-21
+    release: 1
+    mergedPR: 218
+    openPR: 91
+    closedIssue: 11
+    openIssue: 85
+    commit: 220
+  last360d:
+    since: 2025-11-22
+    release: 5
+    mergedPR: 394
+    openPR: 111
+    closedIssue: 31
+    openIssue: 178
+    commit: 384
+  last720d:
+    since: 2024-11-27
+    release: 11
+    mergedPR: 807
+    openPR: 130
+    closedIssue: 109
+    openIssue: 366
+    commit: 810
+total:
+  release: 86
+  mergedPR: 3257
+  openPR: 154
+  closedIssue: 1096
+  openIssue: 796
+  commit: 4334
+---
+path: /home/runner/.x-repo/github.com/kopia/kopia
+collectedAt: 2026-11-17T10:43:40Z
+loc:
+  Go:
+    code: 118575
+    comments: 9667
+    blanks: 33467
+    files: 1055
+  Json:
+    code: 5473
+    comments: 0
+    blanks: 0
+    files: 5
+  JavaScript:
+    code: 1365
+    comments: 98
+    blanks: 247
+    files: 10
+  Makefile:
+    code: 707
+    comments: 86
+    blanks: 222
+    files: 5
+  Svg:
+    code: 703
+    comments: 0
+    blanks: 0
+    files: 15
+  Sh:
+    code: 577
+    comments: 112
+    blanks: 174
+    files: 16
+  Html:
+    code: 281
+    comments: 23
+    blanks: 36
+    files: 12
+  Protobuf:
+    code: 175
+    comments: 12
+    blanks: 42
+    files: 1
+  Toml:
+    code: 88
+    comments: 29
+    blanks: 21
+    files: 1
+  Yaml:
+    code: 32
+    comments: 16
+    blanks: 4
+    files: 1
+  Dockerfile:
+    code: 23
+    comments: 0
+    blanks: 6
+    files: 1
+  Xml:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2412
+    blanks: 1338
+    files: 41
+  Sass:
+    code: 0
+    comments: 5
+    blanks: 0
+    files: 1
+  Text:
+    code: 0
+    comments: 81
+    blanks: 10
+    files: 5
+total:
+  code: 128729
+  comments: 12572
+  blanks: 35618
+  files: 1170
+---
+
+---
