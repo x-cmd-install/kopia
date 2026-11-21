@@ -32,7 +32,7 @@ x install kopia
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install kopia
 
 ## 流行度
 
-- **Star**: 14,753 · **Fork**: 811 · **开放 issue**: 1,892 · **贡献者**: 168
+- **Star**: 14,765 · **Fork**: 812 · **开放 issue**: 1,892 · **贡献者**: 168
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 3286 · **开放 PR**: 150 · **已关闭 issue**: 1098 · **开放 issue**: 794 · **提交数**: 4363
+- **发布数**: 86 · **已合并 PR**: 3286 · **开放 PR**: 149 · **已关闭 issue**: 1099 · **开放 issue**: 793 · **提交数**: 4363
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 56 | 20 | 1 | 18 | 58 |
-| last60d | 2026-09-21 | 0 | 98 | 37 | 3 | 35 | 101 |
-| 90d | 2026-08-22 | 0 | 140 | 56 | 7 | 47 | 149 |
-| last180d | 2026-05-24 | 1 | 246 | 84 | 12 | 84 | 249 |
-| 360d | 2025-11-25 | 5 | 414 | 107 | 29 | 176 | 413 |
-| last720d | 2024-11-30 | 11 | 836 | 126 | 108 | 362 | 839 |
+| 30d | 2026-10-22 | 0 | 56 | 18 | 1 | 18 | 58 |
+| last60d | 2026-09-22 | 0 | 97 | 36 | 3 | 35 | 101 |
+| 90d | 2026-08-23 | 0 | 138 | 55 | 7 | 47 | 149 |
+| last180d | 2026-05-25 | 1 | 246 | 83 | 12 | 83 | 249 |
+| 360d | 2025-11-26 | 4 | 413 | 106 | 29 | 176 | 413 |
+| last720d | 2024-12-01 | 11 | 833 | 125 | 108 | 360 | 839 |
 
 ## Release 资产
 
@@ -135,4 +135,4 @@ kopia 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261120.yml` · 2026-11-20T09:29:09Z._
+_数据快照: `data/card/261121.yml` · 2026-11-21T08:53:30Z._
