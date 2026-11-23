@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.23.1` (2026-06-16)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-23
 - **Assets in release**: 44
 
 ## Popularity
 
-- **Stars**: 14,774 · **Forks**: 812 · **Open issues**: 1,892 · **Contributors**: 168
+- **Stars**: 14,797 · **Forks**: 813 · **Open issues**: 1,895 · **Contributors**: 168
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 3286 · **Open PRs**: 150 · **Closed issues**: 1099 · **Open issues**: 793 · **Commits**: 4363
+- **Releases**: 86 · **Merged PRs**: 3288 · **Open PRs**: 152 · **Closed issues**: 1099 · **Open issues**: 796 · **Commits**: 4365
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 56 | 19 | 1 | 18 | 50 |
-| last60d | 2026-09-23 | 0 | 97 | 37 | 3 | 35 | 93 |
-| 90d | 2026-08-24 | 0 | 138 | 56 | 7 | 46 | 146 |
-| last180d | 2026-05-26 | 1 | 246 | 84 | 12 | 83 | 247 |
-| 360d | 2025-11-27 | 3 | 412 | 107 | 29 | 173 | 406 |
-| last720d | 2024-12-02 | 11 | 831 | 126 | 108 | 359 | 839 |
+| 30d | 2026-10-24 | 0 | 58 | 21 | 1 | 21 | 52 |
+| last60d | 2026-09-24 | 0 | 99 | 38 | 3 | 37 | 95 |
+| 90d | 2026-08-25 | 0 | 140 | 58 | 6 | 49 | 148 |
+| last180d | 2026-05-27 | 1 | 247 | 86 | 12 | 86 | 249 |
+| 360d | 2025-11-28 | 3 | 414 | 109 | 28 | 176 | 408 |
+| last720d | 2024-12-03 | 11 | 833 | 128 | 106 | 362 | 840 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for kopia lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T08:28:40Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T10:15:07Z._
