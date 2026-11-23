@@ -1,3 +1,14 @@
+- repo: nix_stable_25_05
+  srcname: kopia
+  visiblename: kopia
+  version: 0.19.0
+  origversion: null
+  status: outdated
+  summary: Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication
+  maintainers:
+    - bigras.bruno@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: alt_p11
   srcname: kopia
   binnames:
@@ -54,6 +65,19 @@
     - jtprince@aur
   licenses:
     - Apache
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: kopia
+  binname: kopia
+  visiblename: kopia
+  version: 0.17.0
+  origversion: 0.17.0_3
+  status: outdated
+  summary: Fast and secure backup tool
+  maintainers:
+    - daniel.eysser@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: fedora_rawhide
   subrepo: development
   srcname: kopia
@@ -155,17 +179,6 @@
   srcname: kopia
   visiblename: kopia
   version: 0.17.0
-  origversion: null
-  status: outdated
-  summary: Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication
-  maintainers:
-    - bigras.bruno@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: kopia
-  visiblename: kopia
-  version: 0.19.0
   origversion: null
   status: outdated
   summary: Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication
@@ -315,16 +328,3 @@
     - Apache-2.0 AND CC0-1.0 AND Apache-2.0 AND LGPL-3.0-or-later AND MIT AND (MIT AND (BSD-3-Clause AND LGPL-2.1-or-later AND Apache-2.0 AND IJG AND MIT AND GPL-2.0-or-later AND ISC AND OpenSSL AND (MPL-1.1 OR GPL-2.0-only OR LGPL-2.0-only)))
   categories:
     - Unspecified
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: kopia
-  binname: kopia
-  visiblename: kopia
-  version: 0.17.0
-  origversion: 0.17.0_3
-  status: outdated
-  summary: Fast and secure backup tool
-  maintainers:
-    - daniel.eysser@gmail.com
-  licenses:
-    - Apache-2.0
