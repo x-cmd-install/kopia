@@ -14,13 +14,13 @@ x install kopia
 
 ## Code insight
 
-Total: **128,215** lines of code across **1091** files in the top 5 languages.
+Total: **128,264** lines of code across **1091** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 118,734 | 9,680 | 33,528 | 1056 |
 | Json | 5,473 | 0 | 0 | 5 |
-| JavaScript | 1,413 | 99 | 258 | 10 |
+| JavaScript | 1,462 | 102 | 265 | 10 |
 | Makefile | 707 | 86 | 222 | 5 |
 | Svg | 703 | 0 | 0 | 15 |
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,797 · **Forks**: 813 · **Open issues**: 1,895 · **Contributors**: 168
+- **Stars**: 14,803 · **Forks**: 815 · **Open issues**: 1,896 · **Contributors**: 168
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 3288 · **Open PRs**: 152 · **Closed issues**: 1099 · **Open issues**: 796 · **Commits**: 4365
+- **Releases**: 86 · **Merged PRs**: 3291 · **Open PRs**: 150 · **Closed issues**: 1099 · **Open issues**: 797 · **Commits**: 4368
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 58 | 21 | 1 | 21 | 52 |
-| last60d | 2026-09-24 | 0 | 99 | 38 | 3 | 37 | 95 |
-| 90d | 2026-08-25 | 0 | 140 | 58 | 6 | 49 | 148 |
-| last180d | 2026-05-27 | 1 | 247 | 86 | 12 | 86 | 249 |
-| 360d | 2025-11-28 | 3 | 414 | 109 | 28 | 176 | 408 |
-| last720d | 2024-12-03 | 11 | 833 | 128 | 106 | 362 | 840 |
+| 30d | 2026-10-25 | 0 | 58 | 19 | 1 | 20 | 55 |
+| last60d | 2026-09-25 | 0 | 101 | 36 | 3 | 38 | 98 |
+| 90d | 2026-08-26 | 0 | 143 | 55 | 6 | 49 | 151 |
+| last180d | 2026-05-28 | 1 | 249 | 84 | 12 | 85 | 252 |
+| 360d | 2025-11-29 | 3 | 417 | 107 | 28 | 175 | 411 |
+| last720d | 2024-12-04 | 11 | 836 | 126 | 106 | 363 | 843 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for kopia lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:15:07Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:42:33Z._
