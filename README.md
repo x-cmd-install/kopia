@@ -14,11 +14,11 @@ x install kopia
 
 ## Code insight
 
-Total: **128,264** lines of code across **1091** files in the top 5 languages.
+Total: **128,341** lines of code across **1092** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 118,734 | 9,680 | 33,528 | 1056 |
+| Go | 118,811 | 9,685 | 33,547 | 1057 |
 | Json | 5,473 | 0 | 0 | 5 |
 | JavaScript | 1,462 | 102 | 265 | 10 |
 | Makefile | 707 | 86 | 222 | 5 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.23.1` (2026-06-16)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-25
 - **Assets in release**: 44
 
 ## Popularity
 
-- **Stars**: 14,803 · **Forks**: 815 · **Open issues**: 1,896 · **Contributors**: 168
+- **Stars**: 14,816 · **Forks**: 818 · **Open issues**: 1,896 · **Contributors**: 169
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 3291 · **Open PRs**: 150 · **Closed issues**: 1099 · **Open issues**: 797 · **Commits**: 4368
+- **Releases**: 86 · **Merged PRs**: 3292 · **Open PRs**: 151 · **Closed issues**: 1100 · **Open issues**: 796 · **Commits**: 4369
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 58 | 19 | 1 | 20 | 55 |
-| last60d | 2026-09-25 | 0 | 101 | 36 | 3 | 38 | 98 |
-| 90d | 2026-08-26 | 0 | 143 | 55 | 6 | 49 | 151 |
-| last180d | 2026-05-28 | 1 | 249 | 84 | 12 | 85 | 252 |
-| 360d | 2025-11-29 | 3 | 417 | 107 | 28 | 175 | 411 |
-| last720d | 2024-12-04 | 11 | 836 | 126 | 106 | 363 | 843 |
+| 30d | 2026-10-26 | 0 | 58 | 21 | 1 | 20 | 56 |
+| last60d | 2026-09-26 | 0 | 102 | 37 | 4 | 36 | 99 |
+| 90d | 2026-08-27 | 0 | 143 | 54 | 6 | 48 | 152 |
+| last180d | 2026-05-29 | 1 | 250 | 85 | 13 | 84 | 253 |
+| 360d | 2025-11-30 | 3 | 418 | 108 | 28 | 173 | 412 |
+| last720d | 2024-12-05 | 11 | 837 | 127 | 106 | 362 | 844 |
 
 ## Release assets
 
@@ -114,18 +114,6 @@ Lowest-scoring checks:
 | [latest-mac.yml](https://github.com/kopia/kopia/releases/download/v0.23.1/latest-mac.yml) | 805 B | `other` |
 | [latest.yml](https://github.com/kopia/kopia/releases/download/v0.23.1/latest.yml) | 346 B | `other` |
 
-## Distribution status
-
-Reported by **25** distros on [repology.org](https://repology.org/project/kopia). **19** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.23.1` | ✅ latest |
-| Fedora rawhide | `0.23.1` | ✅ latest |
-| Nix unstable | `0.23.1` | ✅ latest |
-| Void | `0.17.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.23.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for kopia lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kopia` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -135,4 +123,4 @@ Install metadata for kopia lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:42:33Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:03:22Z._
